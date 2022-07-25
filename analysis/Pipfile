@@ -1,0 +1,23 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+mplfinance = "*"
+seaborn = "*"
+plotly = "*"
+pandas = "*"
+jupyter = "*"
+notebook = "*"
+opencv-python = "*"
+pillow = "*"
+numpy = "*"
+pyzmq = "*"
+pytz = "*"
+metatrader5 = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

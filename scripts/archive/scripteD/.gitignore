@@ -1,0 +1,7 @@
+*.so
+*.o
+*.exe
+*.log
+
+bin/
+__pycache__/
